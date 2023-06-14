@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buyekeobare 
 - 🌱 I’m currently learning Software Engineer and I am open to collaborate and learn from others.
-- 📫 How to reach me www.linkedin.com/in/buyeke-obare
+- 📫 How to reach me https://www.linkedin.com/in/buyeke-obare/
 - ⚡ Fun fact, I am a style and fashion aficionado.
 
 <!---
