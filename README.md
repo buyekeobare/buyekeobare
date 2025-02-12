@@ -1,6 +1,6 @@
 👩‍💻 About Me :
 - 👋 Hi, I’m @buyekeobare, a Full Stack Software Engineer from Kenya.
-- 🌱 I’m certified ALX Software Engineering and I am open to collaborate and learn from others.
+- 🌱 I’m a certified ALX Software Engineering and I am open to collaborate and learn from others.
 
 - ⚡ Fun fact, I am a style and fashion aficionado.
 
